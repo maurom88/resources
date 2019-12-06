@@ -1,4 +1,4 @@
-# resources
+# Resources
 A list of resources I use, or have used in my journey of becoming a web developer, but not just about coding
 
 ## MOOCs, online courses, etc
