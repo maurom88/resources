@@ -17,3 +17,15 @@ A list of resources I use, or have used in my journey of becoming a web develope
 
 ## Books and tutorials
 1. https://eloquentjavascript.net/
+
+## Tools
+1. [Coolors.co](https://coolors.co/) - The super fast color scheme generator
+2. [Rapidtables](https://www.rapidtables.com/) - Free online conversion and calculator tools
+3. [Lorem Picsum](https://picsum.photos/) - Generator of random images
+4. https://caniuse.com - Tables for support of front-end web technologies on desktop and mobile web browsers
+
+
+## Accessibility
+1. https://webaim.org/resources/contrastchecker/ - Color contrast checker
+2. https://contrastchecker.com/ - Another color contrast checker
+3. [Web Accessibility Initiative -  Accessible Rich Internet Applications (WAI-AIRA)](https://www.w3.org/WAI/standards-guidelines/aria/) - A guide to the web's accessibility standards
