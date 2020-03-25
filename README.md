@@ -20,7 +20,11 @@ A list of resources I use, or have used in my journey of becoming a web develope
 3. https://codepen.io/
 4. https://jsfiddle.net/
 
-## Books and tutorials
+## Games
+1. [Flexbox Zombies](https://flexboxzombies.com/p/flexbox-zombies)
+2. [Grid Critters](https://gridcritters.com/)
+
+## Books
 1. https://eloquentjavascript.net/
 
 ## Tools
