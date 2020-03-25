@@ -1,13 +1,18 @@
 # Resources
-A list of resources I use, or have used in my journey of becoming a web developer, but not just about coding
+A list of resources I use, or have used in my journey of becoming a web developer.
 
 ## MOOCs, online courses, etc
-### General 
+
+### Platforms 
 1. https://www.edx.org/
 2. https://www.linkedin.com/learning/
-### Specific purposes
-1. [Traversy Media's Express JS Crash Course](https://www.youtube.com/watch?v=L72fhGm1tfE)
-2. [Traversy Media's Node.js Crash Course](https://www.youtube.com/watch?v=fBNz5xF-Kx4)
+3. https://scrimba.com/
+4. https://scotch.io/courses
+
+### Courses
+1. [Harvard's CS50: Introduction to Computer Science](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)
+2. [Traversy Media's Express JS Crash Course](https://www.youtube.com/watch?v=L72fhGm1tfE)
+3. [Traversy Media's Node.js Crash Course](https://www.youtube.com/watch?v=fBNz5xF-Kx4)
 
 ## Coding practice, exercises and sandbox environments
 1. https://www.freecodecamp.org/
