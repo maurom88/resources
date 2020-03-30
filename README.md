@@ -8,6 +8,7 @@ A list of resources I use, or have used in my journey of becoming a web develope
 2. https://www.linkedin.com/learning/
 3. https://scrimba.com/
 4. https://scotch.io/courses
+5. https://open.appacademy.io/
 
 ### Courses
 1. [Harvard's CS50: Introduction to Computer Science](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)
