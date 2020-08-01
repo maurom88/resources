@@ -5,6 +5,7 @@ A list of useful resources
 1. [PizzaPokerGuy/ultimate-coding-resources](https://github.com/PizzaPokerGuy/ultimate-coding-resources): A collection of the best resources for programming, web development, computer science and more
 1. [sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions): List of top 500 ReactJS interview questions & answers
 1. [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners): A list of awesome beginner-friendly projects
+1. [Web skills](https://andreasbm.github.io/web-skills/): A visual overview of useful skills to learn as a web developer.
 
 ## Libraries, engines, frameworks, etc...
 1. [juliangarnier / anime](https://github.com/juliangarnier/anime): JavaScript animation engine 
@@ -29,11 +30,13 @@ A list of useful resources
 1. [Traversy Media's Node.js Crash Course](https://www.youtube.com/watch?v=fBNz5xF-Kx4)
 
 ### Learning paths and collections
+#### Learning paths
+1. [Upskill Essential Web Developer](https://upskillcourses.com/courses/essential-web-developer-course)
+
 #### JS & beyond
 1. [markerikson / react-redux-links](https://github.com/markerikson/react-redux-links): Curated tutorial and resource links on React, Redux, ES6, and more
 1. [petehunt / react-howto](https://github.com/petehunt/react-howto): Your guide to the (sometimes overwhelming!) React ecosystem
 1. [FermiDirak/LearnMachineLearningJS](https://github.com/FermiDirak/LearnMachineLearningJS): Machine Learning with JavaScript
-
 
 #### Pen testing, ethical hacking, security
 1. [sundowndev / hacker-roadmap](https://sundowndev.github.io/hacker-roadmap/): Your beginner pen-testing start guide. A guide for amateur pen testers and a collection of hacking tools, resources and references to practice ethical hacking and web security
@@ -55,6 +58,7 @@ A list of useful resources
 1. [refactoringui/heroicons](https://github.com/refactoringui/heroicons): 
 1. [rough-stuff/rough](https://github.com/rough-stuff/rough): 
 1. [jdan/98.css](https://github.com/jdan/98.css): A design system for building faithful recreations of old UIs
+1. [Picture palette](https://picture-palette.web.app/): Get a palette of colors from a picture
 
 ## Games
 1. [Flexbox Zombies](https://flexboxzombies.com/p/flexbox-zombies)
@@ -75,3 +79,6 @@ A list of useful resources
 1. https://webaim.org/resources/contrastchecker/ - Color contrast checker
 1. https://contrastchecker.com/ - Another color contrast checker
 1. [Web Accessibility Initiative -  Accessible Rich Internet Applications (WAI-AIRA)](https://www.w3.org/WAI/standards-guidelines/aria/) - A guide to the web's accessibility standards
+
+## Getting hired
+1. [Front-end interview handbook](https://yangshun.github.io/front-end-interview-handbook/)
