@@ -55,8 +55,8 @@ A list of useful resources
 
 ## Graphics and icons
 1. [tabler/tabler-icons](https://github.com/tabler/tabler-icons): A set of over 550 free MIT-licensed high-quality SVG icons for you to use in your web projects
-1. [refactoringui/heroicons](https://github.com/refactoringui/heroicons): 
-1. [rough-stuff/rough](https://github.com/rough-stuff/rough): 
+1. [refactoringui/heroicons](https://github.com/refactoringui/heroicons): A set of free MIT-licensed high-quality SVG icons for UI development. 
+1. [rough-stuff/rough](https://github.com/rough-stuff/rough): Create graphics with a hand-drawn, sketchy, appearance 
 1. [jdan/98.css](https://github.com/jdan/98.css): A design system for building faithful recreations of old UIs
 1. [Picture palette](https://picture-palette.web.app/): Get a palette of colors from a picture
 
@@ -65,7 +65,7 @@ A list of useful resources
 1. [Grid Critters](https://gridcritters.com/)
 
 ## Books
-1. [Eloquent JavaScript(]https://eloquentjavascript.net/)
+1. [Eloquent JavaScript](https://eloquentjavascript.net/)
 1. [bitcoinbook / bitcoinbook](https://github.com/bitcoinbook/bitcoinbook): Mastering Bitcoin 2nd Edition - Programming the Open Blockchain
 
 ## Tools
